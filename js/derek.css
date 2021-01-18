@@ -16,3 +16,23 @@ footer div h3 , footer div h4{
         font-size: 1em;
     }
 }
+
+
+.btn {
+    color: white;
+    background-color: cadetblue;
+    border-radius: 40px;
+    padding: 2px 19px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+}
+.like {
+    color: cyan;
+    background-color: yellow;
+}
+.bad {
+    color: tomato;
+    background-color: thistle;
+}
